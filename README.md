@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FFA500,100:FFD700&height=200&section=header&text=ELYSIA%20%E2%9C%A8%F0%9F%A7%A1&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cyber%20Security%20Analyst%20%7C%20Network%20Security%20Engineer%20%7C%20GNU%2FLinux%20Enthusiast&descSize=16&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5900,50:FF8C00,100:006EFF&height=200&section=header&text=ELYSTRIA%20%E2%9C%A8%F0%9F%A7%A1&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cyber%20Security%20Analyst%20%7C%20Network%20Security%20Engineer%20%7C%20GNU%2FLinux%20Enthusiast&descSize=16&descAlignY=55" width="100%"/>
 <div>  
 <img width="337" src="./img/senyum.png" align=right />
 <br/>
