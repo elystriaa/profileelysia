@@ -9,17 +9,15 @@
 
 - Name: **Elystria**
 
-- Residing in: **South Sumatra, Indonesia**
+- Studying Multiplatform-Software
 
-- Field of Study: [**Computer Science**](https://if.uigm.ac.id/home/)
+- Proficient in: **GNU/Linux**, **Krita**, **Photoshop**, **Figma**, **Clip Studio Paint**.
 
-- Proficient in: **GNU/Linux**, **FreeBSD**, and other **Unix-like** system.
+- Skilled in: **C#**, **CF2.5+**, **GDScript**.
 
-- Skilled in: **JavaScript**, **TypeScript**, **PHP**, **Go**, **Rust**, and **Python**
+- Learning : **JavaScript**, **SQL**, **Python**, **HTML**, **CSS**.
 
-- Highly experienced with: **Docker**, **Cloudflare**, **Vercel**, and **CI/CD**
-
-- Languages: Bahasa Indonesia, Bahasa Melayu, English, and 日本語
+- Languages: Portuguese-Brazil, English, Spanish.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottophellia&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
 <br/>
@@ -28,14 +26,8 @@
 <br/>
 <br/>
   
-- 📗 [***elliottophellia/proxylist***](https://github.com/elliottophellia/proxylist) <br/>
-  The Ultimate Checked Proxy List - Update Every 20 Minutes
-- 📘 [***elliottophellia/adlist***](https://github.com/elliottophellia/adlist) <br/>
-  The Ultimate Advertisement List - Update Weekly
-- 📙 [***elliottophellia/revanced***](https://github.com/elliottophellia/revanced) <br/>
-  Always-up-to-date ReVanced apps, automatically built and maintained via continuous integration. Never miss a new version.
-- 📒 [***elliottophellia/packages***](https://github.com/elliottophellia/packages) <br/>
-  Personal Fedora RPM repository with automatically maintained packages. Always up-to-date, synced daily via continuous integration.
+- 📗 [***Lotus-Framework (still private)***](https://github.com/elystriaa/Lotus-Framework) <br/>
+  A Plants Vs. Zombies 2 engine made in Godot 4.5 that works with the original game files.
 <img src="./img/tunjuk.png" width="270" align="right" />
 <br/>
 <img src="./img/banner-elainaa.png" width="500" /><br/>
