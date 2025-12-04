@@ -19,7 +19,7 @@
 
 - Languages: Portuguese-Brazil, English, Spanish.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottophellia&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elystriaa&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
 <br/>
 <br/>
 <img src="./img/Repo-elaina.png" width="488" />
@@ -33,10 +33,10 @@
 <img src="./img/banner-elainaa.png" width="500" /><br/>
 <sub>“We're connected by this sword. It will burn up the darkness to make way for light!” – Kiana Kaslana&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : </sub>
 <br/><br/>
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=elliottophellia&no-bg=true&no-frame=true&theme=alduin&rank=-C" align="center"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=elystriaa&no-bg=true&no-frame=true&theme=alduin&rank=-C" align="center"/>
 <br/><br/>
 <p align='center'>
 <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a> <a href="https://vgen.co/elystria"><img src="https://img.shields.io/badge/COMMISSIONS-DAC6C2?style=for-the-badge"/> <a href="https://x.com/elystria_"><img src="https://img.shields.io/badge/TWITTER-DAC6C2?style=for-the-badge"/> </a> <img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/>
 </p>
-<img src="https://i.ibb.co/5r2WJZy/Elaina-With-Effective-Python-1-2.webp" width="100%" align="center" />
+<img src="./img/flamescion.gif" width="100%" align="center" />
 </div>
