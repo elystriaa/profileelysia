@@ -33,10 +33,17 @@
 <img src="./img/banner-elainaa.png" width="500" /><br/>
 <sub>“We're connected by this sword. It will burn up the darkness to make way for light!” – Kiana Kaslana&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : </sub>
 <br/><br/>
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=elystriaa&no-bg=true&no-frame=true&theme=alduin&rank=-C" align="center"/>
+
+<h2 align="center">🎮 Game Dev & Creative Tools</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Krita-FF5900?style=for-the-badge&logo=krita&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 <br/><br/>
 <p align='center'>
 <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a> <a href="https://vgen.co/elystria"><img src="https://img.shields.io/badge/COMMISSIONS-DAC6C2?style=for-the-badge"/> <a href="https://x.com/elystria_"><img src="https://img.shields.io/badge/TWITTER-DAC6C2?style=for-the-badge"/> </a> <img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/>
 </p>
-<img src="./img/flamescion.gif" width="100%" align="center" />
+
+<img src="https://i.imgur.com/2Y6l6jQ.gif" width="100%" style="border-radius: 8px; margin-top: 10px;" />
 </div>
